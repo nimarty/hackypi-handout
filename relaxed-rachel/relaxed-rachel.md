@@ -2,7 +2,7 @@
 
 ## Setup
 - `opkg update`
-- `opkg install relaxed-rachel`
+- `opkg install relaxed-rachel &>/dev/null`
 - run the compiled application from this folder on your Linux machine with the Raspberry Pi's IP address as one and only argument (e.g. `./client 192.168.1.12`)
 
 ## Goal

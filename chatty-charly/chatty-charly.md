@@ -2,7 +2,7 @@
 
 ## Setup
 - `opkg update`
-- `opkg install chatty-charly`
+- `opkg install chatty-charly &>/dev/null`
 
 ## Goal
 Get access to *treasure* file located somewhere on the file system.
