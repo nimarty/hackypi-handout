@@ -1,10 +1,6 @@
 # Hacky Pi Handout :robot:
 This repository contains context information to the security challenges created in https://github.com/nimarty/hackypi/.
 
-## Structure
-For each security challenge there should be a folder with the same name in this repository, e.g. chatty-charly, or relaxed-rachel.
-If a challenge requires some precompiled binaries to run under Linux, they should be placed together with documentation in the subdirectory.
-
 ## Challenges
 - [chatty-charly](chatty-charly/chatty-charly.md)
 - [relaxed-rachel](relaxed-rachel/relaxed-rachel.md)
@@ -16,3 +12,7 @@ interface eth0
 static ip_address=192.168.1.12/24
 ```
 Remove the UART interface afterwards and try to solve the challenges **only** over the network connection. Do always remove the challenge's package as mentioned in each cleanup section in the documentation. You should never have two challenges installed simultaneously.
+
+## Contribute
+For each security challenge there should be a folder with the same name in this repository, e.g. chatty-charly, or relaxed-rachel.
+If a challenge requires some precompiled binaries to run under Linux, they should be placed together with documentation in the subdirectory.
