@@ -4,6 +4,7 @@ This repository contains context information to the security challenges created 
 ## Challenges
 - [chatty-charly](chatty-charly/chatty-charly.md)
 - [relaxed-rachel](relaxed-rachel/relaxed-rachel.md)
+- [deceived-donald](deceived-donald/deceived-donald.md)
 
 ## General Setup
 You get a Raspberry Pi together with a prepared SD card for this training. A minimal image is provided that enables to install challenge packages from a OPKG server. To do so, connect the Raspberry Pi to a network with a DHCP server or directly to your computer. For the second option, you temporarely need access to the UART interface in order to set a static IP address in the file `/etc/dhcpcd.conf` by adding those two lines in the end:
