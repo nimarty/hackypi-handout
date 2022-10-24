@@ -3,6 +3,7 @@
 ## Setup
 - `opkg update`
 - `opkg install moody-maggie &>/dev/null`
+- `reboot`
 
 ## Goal
 Find out about the mood of maggie somewhere in the hidden secrets of the file system.
@@ -35,17 +36,12 @@ Find out about the mood of maggie somewhere in the hidden secrets of the file sy
 
 <details>
   <summary>Next Hint</summary>
-  Look at the running processes for further hints
+  Look at the running processes and open TCP ports for further hints
 </details>
 
 <details>
   <summary>Next Hint</summary>
-  There is a netcat process running
-</details>
-
-<details>
-  <summary>Next Hint</summary>
-  Connect yourself to the bind shell provided by this netcat process
+  Connect yourself to the bind shell provided by the moody maggie process
 </details>
 
 <details>
