@@ -62,3 +62,4 @@ the flag in the filesystem?
 
 ## Cleanup
 - `opkg remove hefty-howard`
+- `opkg remove hefty-howard-cli`
