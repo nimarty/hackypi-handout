@@ -6,6 +6,8 @@ This repository contains context information to the security challenges created 
 - [relaxed-rachel](relaxed-rachel/relaxed-rachel.md)
 - [deceived-donald](deceived-donald/deceived-donald.md)
 - [moody-maggie](moody-maggie/moody-maggie.md)
+- [tearful-tanja](tearful-tanja/tearful-tanja.md)
+- [raging-rachel](raging-rachel/raging-rachel.md)
 - [hefty-howard](hefty-howard/hefty-howard.md)
 
 ## General Setup
